@@ -1,6 +1,6 @@
 # Banking System in C++
 
-A simple command-line banking application with features for viewing balance, depositing, and withdrawing money. It demonstrates basic C++ concepts like functions, loops, input validation, and error handling.
+A simple command-line banking application with features for viewing balance, depositing, and withdrawing money, with PIN authentication. It demonstrates basic C++ concepts like functions, loops, input validation, and error handling.
 
 ## 🚀 Features:
 - Display current balance
@@ -28,7 +28,6 @@ A simple command-line banking application with features for viewing balance, dep
    ```
 
 ## 📝 Future Improvements:
-- Add PIN authentication
 - Implement transaction history
 - Store data using file handling
 
